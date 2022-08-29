@@ -28,7 +28,8 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-I am a Full Stack Developer 
+Hi, I'm Christian Varas. Welcome to my profile! I am a Full Stack student at Holberton School Peru.
+My journey to become a software developer started around the time of the pandemic, I was always curious how things like games, websites and apps were built.
 
 ### My Opensource Story
 All of my projects are released as open-source on GitHub, this includes some of my GitHub trending projects:
