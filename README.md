@@ -14,6 +14,7 @@
 - [Compiling C files with GCC, step by step.](https://medium.com/@christianvaras-2020/compiling-c-files-with-gcc-step-by-step-4c7c4b34771a)
 - [What happens when you type `ls -l *.c` in the shell](https://medium.com/@christianvaras-2020/what-happens-when-you-type-ls-l-c-in-the-shell-672cfbea8cbe)
 - [Differences between static and dynamic libraries](https://medium.com/@christianvaras-2020/differences-between-static-and-dynamic-libraries-2d13bb1e8e06)
+- [What happens when you type https://www.google.com in your browser and press ENTER?](https://christianvaras-2020.medium.com/what-happens-when-you-type-https-www-google-com-in-your-browser-and-press-enter-9124e05226bf)
 <!-- BLOG-POST-LIST:END -->
 
 🔗 &nbsp;**Connect with me**
